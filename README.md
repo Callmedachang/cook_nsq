@@ -7,6 +7,8 @@ description: nsq 源码导读（1），nsqd的启动过程
 
 # Nsq SourceCode Guide 1 - bootstrap of nsqd
 
+GitBook Address:[https://callmedachang.gitbook.io/cook-nsq/](https://callmedachang.gitbook.io/cook-nsq/)
+
 我是一个gopher。
 
 最近在研究NSQ的源码，具体源码阅读逻辑以及原理基本写在了注释上。
